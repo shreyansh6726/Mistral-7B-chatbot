@@ -38,29 +38,7 @@ This project allows you to run and chat with a powerful LLM **locally on your ow
 [Ollama Local Server]
           ↓
 [Mistral 7B Model Inference Engine]
-
 ```
-Perfect 💪 — here’s your final, complete README.md that includes the introduction, features, architecture, and full setup guide (step-by-step) exactly as someone would need to clone and run your Mistral 7B chatbot on their own system.
-
-It’s polished, GitHub-ready, and technically detailed 👇
-
-# 🧠 Mistral 7B Web Chatbot
-
-An interactive **AI-powered chatbot web application** built using **Mistral 7B**, an open-source large language model by [Mistral AI](https://mistral.ai).  
-This project allows you to run and chat with a powerful LLM **locally on your own system**, using **Ollama** as the model runtime and a modern **React + Express.js** web interface.
-
----
-
-## 🚀 Features
-
-- ⚡ **Locally hosted AI** using [Ollama](https://ollama.com) — no API keys or internet required  
-- 💬 **Interactive chat interface** built with **React.js**  
-- 🔄 **Express.js backend API** that communicates with the Mistral model  
-- 🌐 **REST-based architecture** for easy integration and scaling  
-- 🔒 **Cross-origin support (CORS)** for seamless frontend-backend communication  
-- 🧩 **Lightweight and extendable** for future LLM integrations or cloud deployment  
-
----
 
 ## 🧱 Tech Stack
 
